@@ -15,7 +15,7 @@ Pdf_trans is not memory efficient, but it should be fine for shorter documents. 
 	
 e.g. to translate myfile.pdf from English to Polish
 
-	./pdf_trans.sh myfile.pdf en pl
+	`./pdf_trans.sh myfile.pdf en pl`
 
 If your pdf file name has spaces, you should rename it. Or call the script with single quotes around the file name.
 
