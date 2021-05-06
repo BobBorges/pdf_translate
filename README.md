@@ -11,7 +11,7 @@ Pdf_trans is not memory efficient, but it should be fine for shorter documents. 
 * chmod +X pdf_trans.sh
 * call
 
-	./pdf_trans.sh <pdf-file.pdf> <src-langauge> <dest-language>
+	./pdf_trans.sh pdf-file.pdf src-langauge dest-language
 	
 e.g. to translate myfile.pdf from English to Polish
 
