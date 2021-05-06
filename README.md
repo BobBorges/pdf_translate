@@ -19,7 +19,7 @@ e.g. to translate myfile.pdf from English to Polish
 
 If your pdf file name has spaces, you should rename it. Or call the script with single quotes around the file name.
 
-For power users: set a Bash alias to the script and call it from anywhere in your system.
+For power users: set a Bash alias to the script and call it quickly from anywhere in your system.
 
 ## Dependencies
 
